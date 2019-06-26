@@ -85,7 +85,7 @@ class LoginPage extends Component {
           </button>
         </center>
         <center>
-          <img src={submarineLogo} height="200px" />
+          <img alt="submarine" src={submarineLogo} height="200px" />
         </center>
       </div>
     );
